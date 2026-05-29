@@ -15,7 +15,7 @@
 
 ### Escuchando en Spotify 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/4dma8tfgqb52fgr6tcu45bg46)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=4dma8tfgqb52fgr6tcu45bg46&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
